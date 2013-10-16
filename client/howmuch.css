@@ -6,3 +6,49 @@ body {
 }
 
 #map { position:absolute; top:50px; bottom:0; width:100%; }
+
+#geolocate {
+    background:rgba(255, 255, 255, 0.5);
+    position: absolute;
+    border: 0px;
+    top: 15%;
+    left: 50%;
+    width: 608px;
+    margin-left: -300px;
+    z-index: 1000;
+    font: 13px/18px;
+    text-align: center;
+    padding: 10px 0;
+    display: block;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    overflow:hidden;
+    text-align: center;
+
+
+}
+
+#geolocate:hover {
+    background: #ECF5FA;
+}
+
+
+
+
+
+
+
+
+nav {
+  z-index: 3000;
+  text-align: center;
+}
+
+.yeah {
+  display: inline-block;
+  position: relative;
+  left: 0;
+  margin-left: 20px;
+  width:80px;
+
+}

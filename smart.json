@@ -1,6 +1,7 @@
 {
   "packages": {
     "bootstrap-3": {},
-    "meteor-gmaps": {}
+    "meteor-gmaps": {},
+    "accounts-ui-bootstrap-3": {}
   }
 }
